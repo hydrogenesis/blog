@@ -15,4 +15,9 @@ tags:
 [explorer](https://explorer.logistic.ml)
 [etf](https://etf.logistic.ml)
 [ethw](https://ethw.logistic.ml)
+[conf](https://conf.logistic.ml)
+[api](https://api.logistic.ml)
+[dao](https://dao.logistic.ml)
+[gateway](https://gateway.logistic.ml)
+[wallet](https://wallet.logistic.ml)
 
