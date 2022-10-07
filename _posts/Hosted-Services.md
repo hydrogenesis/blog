@@ -20,4 +20,6 @@ tags:
 [dao](https://dao.logistic.ml)
 [gateway](https://gateway.logistic.ml)
 [wallet](https://wallet.logistic.ml)
+[element](https://t.logistic.ml)
+[mastodon](https://m.logistic.ml)
 
