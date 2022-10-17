@@ -8,3 +8,9 @@ Thanks to OpenWorm, this simulated C.elegans survived for 3 seconds, at a cost o
 <video width="640" height="480" controls>
   <source src="/assets/speeded_C2_FW_2022-10-14_03-17-50.mp4" type="video/mp4">
 </video>
+
+A longer version (12 seconds)
+
+<video width="640" height="480" controls>
+  <source src="/assets/speeded_C2_FW_2022-10-15_08-04-06.mp4" type="video/mp4">
+</video>
